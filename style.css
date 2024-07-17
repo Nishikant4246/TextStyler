@@ -21,6 +21,8 @@ body{
 .container{
   background: black;
   padding: 6rem;  /* (6 * 16 px )*/
+  filter: drop-shadow(1mm -5mm 4mm rgb(168, 86, 193));
+  border-radius: 6px;
 }
 
 .container h2 {
